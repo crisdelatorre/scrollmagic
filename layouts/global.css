@@ -1,0 +1,56 @@
+
+@font-face {
+    font-family: 'QTAgateType';
+    src: url('../assets/fonts/QTAgateType-Italic.eot');
+    src: url('../assets/fonts/QTAgateType-Italic.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/QTAgateType-Italic.woff2') format('woff2'),
+        url('../assets/fonts/QTAgateType-Italic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'QTAgateType';
+    src: url('../assets/fonts/QTAgateType-Bold.eot');
+    src: url('../assets/fonts/QTAgateType-Bold.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/QTAgateType-Bold.woff2') format('woff2'),
+        url('../assets/fonts/QTAgateType-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'QTAgateType';
+    src: url('../assets/fonts/QTAgateType.eot');
+    src: url('../assets/fonts/QTAgateType.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/QTAgateType.woff2') format('woff2'),
+        url('../assets/fonts/QTAgateType.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../assets/fonts/Roboto-Regular.eot');
+    src: url('../assets/fonts/Roboto-Regular.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Roboto-Regular.woff2') format('woff2'),
+        url('../assets/fonts/Roboto-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Roboto';
+    src: url('../assets/fonts/Roboto-Light.eot');
+    src: url('../assets/fonts/Roboto-Light.eot?#iefix') format('embedded-opentype'),
+        url('../assets/fonts/Roboto-Light.woff2') format('woff2'),
+        url('../assets/fonts/Roboto-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
